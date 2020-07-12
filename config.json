@@ -1,0 +1,13 @@
+{
+// Bot settings
+"token": "your token",
+"prefix": "!",
+// Misc.
+"logsChannel": "logs",
+"owners": ["0"],
+// Status
+"activity": {
+"streaming": false,
+"game": "Hello!"
+}
+}
