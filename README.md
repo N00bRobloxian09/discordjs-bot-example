@@ -5,4 +5,4 @@ yea
 WELCOME 
 
 
-tho fr this bot is trash don't use it noobs haha
+tho fr this bot is a trash don't use it noobs haha
